@@ -1,12 +1,12 @@
 ---
 title: Qiita CLIとGithub Actionsを使って記事投稿してみた
 tags:
-  - '初投稿'
-  - 'QiitaCLI'
-  - 'GithubActions'
+  - 初投稿
+  - GitHubActions
+  - QiitaCLI
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-01-26T15:33:07+09:00'
+id: 2c27efcbcec0c8e3b882
 organization_url_name: null
 slide: false
 ignorePublish: false
